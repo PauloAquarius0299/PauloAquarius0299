@@ -1,5 +1,5 @@
 # 💫 About Me:
-Migrando para a área de TI como estudante de analise e desenvolvimento de sistemas, não foi nada fácil no inicio, pensei em desistir por algumas vezes pois não me via futuramente exercendo a profissão, embora sempre gostei de lógica e sempre fui muito criativo. Até chegar nas matérias de linguagem de programação, onde me encontrei na área de TI e através dela conseguiria usar da minha criatividade para desenvolver softwares intuitivos e agradáveis que seria uteis para o mercado e ajudar as pessoas.<br><br>Com a tecnologia crescendo e a necessidades de profissionais no mercado brasileiro quero fazer diferença como profissional em desenvolvimento de software.
+I grew up with a very high creative capacity, until I discovered the programming language during my academic studies in Systems Analysis and Software Development. Through it I realized I could use my creativity to develop intuitive and enjoyable software that would be useful for the market and help people. .<br><br>With technology growing and the need for professionals in the market, I want to make a difference as a professional in software development.
 
 
 ## 🌐 Socials:
