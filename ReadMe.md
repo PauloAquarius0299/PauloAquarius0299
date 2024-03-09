@@ -32,7 +32,7 @@ I grew up with a very high creative capacity, until I discovered the programming
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=PauloAquarius0299&theme=algolia&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAquarius0299&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
