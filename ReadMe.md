@@ -1,5 +1,5 @@
 # 💫 About Me:
-I grew up with a very high creative capacity, until I discovered the programming language during my academic studies in Systems Analysis and Software Development. Through it I realized I could use my creativity to develop intuitive and enjoyable software that would be useful for the market and help people. .<br><br>With technology growing and the need for professionals in the market, I want to make a difference as a professional in software development.
+I grew up with a very high creative capacity, until I discovered the programming language during my academic studies in Systems Analysis and Software Development. Through it I realized I could use my creativity to develop intuitive and enjoyable software that would be useful for the market and help people. .<br><br> I want to make a difference as a professional in software development.
 
 
 ## 🌐 Socials:
